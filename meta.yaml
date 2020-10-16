@@ -30,7 +30,7 @@ about:
   license_family: BSD
   license_file: 
   summary: "A fancy and practical functional tools"
-  doc_url: 
+  doc_url: https://funcy.readthedocs.io/
   dev_url: 
 
 extra:
